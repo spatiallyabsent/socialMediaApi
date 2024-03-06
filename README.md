@@ -47,4 +47,4 @@
 
 
 ## Questions
-- For any questions reach out to [GitHub](https://github.com/spatiallyabsent)
+- For any questions reach out to [GitHub](https://github.com/spatiallyabsent) for a link to the video visit https://drive.google.com/file/d/1aNcPcvOx3DMU5DKAyuWx-IdC3EHuxktR/view
